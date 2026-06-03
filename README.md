@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kratika Gupta.<br><br>💻 Computer Science student who enjoys turning logic into working code<br>🚀 Currently learning, building, breaking, and fixing things in tech<br><br>🔍 Currently working on web development projects<br><br>🌱 Currently improving<br><br>DSA patterns & optimization<br>System and network fundamentals<br>Building real-world projects instead of just demos<br><br>✨ Fun fact<br><br>I like understanding why a solution works, not just getting the answer 😉
+👋 Hi, I’m Kratika Gupta.<br><br>💻 Computer Science student who enjoys turning logic into working code<br> Currently learning, building, breaking, and fixing things in tech<br><br>🔍 Currently working on web development projects<br><br>🌱 Currently improving<br><br>DSA patterns & optimization<br>System and network fundamentals<br>Building real-world projects instead of just demos<br><br>✨ Fun fact<br><br>I like understanding why a solution works, not just getting the answer 
 
 
 ## 🌐 Socials:
