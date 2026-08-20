@@ -1,27 +1,5 @@
 <div align="center">
 
-  <h1>Hi, I'm Kritika 👋</h1>
-  <p><b>Full-Stack Developer & DevOps Enthusiast</b></p>
-
-  <!-- Animated Typing Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Building+Scalable+MERN+Apps;Crafting+Real-time+Socket.io+Experiences;Containerizing+Applications+with+Docker;Designing+Clean+%26+Modern+UIs" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Social Badges -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff0080,100:2b0930&height=220&section=header&text=Hi%20There!%20I'm%20Kratika&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20universe&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%9A%80;Welcome+to+my+Profile!+%F0%9F%92%96" alt="Typing SVG" />
@@ -30,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h3 align="center">🌸 A little about me 🌸</h3>
+<h3 align="center">A little about me </h3>
 
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/aditya620/aditya620/output/snake.svg">
 
@@ -44,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h3 align="center">🖤💗 Connect with me 💗🖤</h3>
+<h3 align="center">Connect with me </h3>
 
 <div align="center">
 
@@ -69,7 +47,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,html,css,tailwind,git,github,figma,vscode,mongodb,mysql,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongo,python,cpp,html,css,tailwind,git,github,figma,vscode,mongodb,mysql,docker&theme=dark" />
 
 </div>
 
@@ -77,7 +55,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 
@@ -98,7 +76,7 @@
 
 </div>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center"> GitHub Trophies</h3>
 
 <div align="center">
 
@@ -108,7 +86,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h3 align="center">💭 Random Dev Quote</h3>
+<h3 align="center"> Random Dev Quote</h3>
 
 <div align="center">
 
@@ -116,7 +94,7 @@
 
 </div>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center"> Contribution Snake</h3>
 
 <div align="center">
 
