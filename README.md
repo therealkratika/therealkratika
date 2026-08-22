@@ -1,32 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kratika Gupta</h1>
-
-<p align="center">
-  💻 <b>Full-Stack Web Developer</b> | 🚀 <b>Building Scalable Web Apps & Modern Digital Experiences</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/therealkratika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
-  <a href="mailto:thereal.kratika@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord" /></a>
-  <a href="https://codepen.io/YOUR_CODEPEN"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="28" alt="CodePen" /></a>
-</p>
-
----
-
-### 💫 About Me
-
-┌─── [kratika@developer ~]$ cat about_me.txt ──────────────────────────────────┐
-│                                                                            │
-│  ✨ Passionate Full-Stack Developer dedicated to crafting responsive,     │
-│     high-performance web applications and intuitive user interfaces.       │
-│                                                                            │
-│  🛠️  Specializing in modern JavaScript/TypeScript ecosystems, MERN stack,   │
-│     and clean, maintainable architecture.                                  │
-│                                                                            │
-│  💡 Constantly exploring cloud deployment pipelines, containerization,     │
-│     and efficient backend solutions.                                       │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
 
