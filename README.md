@@ -202,6 +202,13 @@ An interactive machine-learning dashboard for predicting customer churn.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=therealkratika&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
 </p>
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="GitHub 3D Contributions"
+    width="900"
+  />
+</p>
 
 <p align="center">
   <b>✨ Thanks for visiting my profile! ✨</b>
